@@ -1,7 +1,7 @@
 ---
 slug: my-macos-installation-configuration
 title: 我的 macOS 装机配置
-authors: [abang]
+authors: [abangfundi]
 tags: [macOS]
 ---
 
@@ -19,20 +19,20 @@ tags: [macOS]
    * iShot 截图软件
    * Magnet 一键调整 App 窗口大小
    * Manico 一键打开/切换 App
-2. 安装 Edge 浏览器 https://www.microsoft.com/en-us/edge/download
-3. 安装 iTerm  参考 https://iterm2.com/  下载解压后拖进 `/Applications`
+2. 安装 Edge 浏览器 <https://www.microsoft.com/en-us/edge/download>
+3. 安装 iTerm  参考 <https://iterm2.com/>  下载解压后拖进 `/Applications`
 4. Command Line Tools for Xcode 在 iTerm 中执行 `xcode-select --install` （可选，下一步安装 HomeBrew 的过程中，也会安装 Command Line Tools for Xcode）
-5. 安装 HomeBrew 参考 https://brew.sh/  
+5. 安装 HomeBrew 参考 <https://brew.sh/>  
 6. 然后使用brew 安装必要的开发软件
    1. `brew install python python@3.10 python@3.8` ...安装自己需要的版本
    2. `brew install go go@1.19 go@1.18` ...安装自己需要的版本
    3. `brew install node@18 node@16` ...安装自己需要的版本
    4. `brew install ruby@2.7` ...安装自己需要的版本
    5. `brew install git`   一般就是最新版
-7. 安装 Oh My ZSH https://ohmyz.sh/
-8. 安装 VSCode 从官网下载 https://code.visualstudio.com/download 下载解压后拖进 `/Applications`
-9. 安装 git 可视化工具： GitUp https://gitup.co/  或者 SourceTree https://www.sourcetreeapp.com/ 等，下载解压后拖进 `/Applications`
-10. 配置 git alias 别名，已然习惯了缩写 `g s`, `g c` 等，参考 https://github.com/GitAlias/gitalias
+7. 安装 Oh My ZSH <https://ohmyz.sh/>
+8. 安装 VSCode 从官网下载 <https://code.visualstudio.com/download> 下载解压后拖进 `/Applications`
+9. 安装 git 可视化工具： GitUp <https://gitup.co/>  或者 SourceTree <https://www.sourcetreeapp.com/> 等，下载解压后拖进 `/Applications`
+10. 配置 git alias 别名，已然习惯了缩写 `g s`, `g c` 等，参考 <https://github.com/GitAlias/gitalias>
 
 差不多就这些，比较基础，没有啥花里胡哨的，以后再补充。
 
