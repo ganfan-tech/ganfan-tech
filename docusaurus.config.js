@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Ganfan Tech',
-  tagline: 'Dinosaurs are cool',
+  tagline: '甘于平凡',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -64,21 +64,21 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'GanFan Tech',
+        title: 'Ganfan Tech',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Ganfan Tech Logo',
+          src: 'img/logo.png',
         },
         items: [
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/ganfan-tech',
             label: 'GitHub',
             position: 'right',
           },
@@ -100,16 +100,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Zhihu',
+                href: 'https://www.zhihu.com/people/ganfan-tech',
               },
             ],
           },
@@ -122,7 +114,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/ganfan-tech',
               },
             ],
           },
