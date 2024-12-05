@@ -1,5 +1,5 @@
 ---
-slug: use-macOS-10.15-in-2023
+slug: 2023-06-07-use-macOS-10.15-in-2023
 title: 在 2023 年又重新用上 macOS 10.15
 authors: abangfundi
 tags: [macOS]

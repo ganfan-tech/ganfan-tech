@@ -1,6 +1,6 @@
 ---
-slug: my-macos-installation-configuration
-title: 我的 macOS 装机配置
+slug: 2023-06-11-macos-installation-configuration
+title: macOS 装机配置
 authors: [abangfundi]
 tags: [macOS]
 ---
