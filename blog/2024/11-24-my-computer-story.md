@@ -1,6 +1,6 @@
 ---
-slug: 2024-11-24-bang-computer-story
-title: 邦邦的电脑故事
+slug: 2024-11-24-my-computer-story
+title: 我的电脑故事
 authors: [abangfundi]
 tags: [macOS, computer]
 ---
